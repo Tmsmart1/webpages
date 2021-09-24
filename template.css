@@ -1,17 +1,19 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
+ *Name: Tate Smart
+ *UnityID: tmsmart
+ *Date: 9/24/21
+ *Assignment: Independent Assignment 5
  *Description: [Assignment Description]
  */
  
 p {
-    property: value;
+    font-family: Times;
+    font-size: 16px;
+    color: #FFFFFF;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1 px solid #FFFFFF;
 }
 
 #id {
