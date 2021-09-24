@@ -16,6 +16,8 @@ p {
     border: 1 px solid #FFFFFF;
 }
 
-#id {
-    property:value;
+#phot-resize {
+    max-width: 200px;
+    max-height: 250px;
+    
 }
